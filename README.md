@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![alt text](https://ichef.bbci.co.uk/news/800/cpsprodpb/41CF/production/_109474861_angrycat-index-getty3-3.jpg "not me")
 
 <!--
