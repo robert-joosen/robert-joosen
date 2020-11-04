@@ -1,4 +1,4 @@
-![alt text](https://ichef.bbci.co.uk/news/800/cpsprodpb/41CF/production/_109474861_angrycat-index-getty3-3.jpg "not me")
+
 
 <!--
 **robert-joosen/robert-joosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
